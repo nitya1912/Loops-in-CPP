@@ -1,6 +1,6 @@
 # Loops-in-CPP
 
-# Code-5
+# Code-6
 
 # Title:
 To demonstrate the use of 'for' loop.
@@ -16,9 +16,9 @@ Algorithm includes: 1)Include necessary header files. ;2)Declare num1 as an inte
 Inside the loop: Output the value of num1 followed by " * " and the current value of i. Calculate the product of num1 * i. Output " = " followed by the product. Move to the next line. ;**End of Main Function**:Return '0' to indicate successful program execution.
 
 
-**END OF CODE-5**
+**END OF CODE-6**
 
-# Code-6
+# Code-7
 
 # Title:
 This C++ code prompts the user to input a number and then calculates and displays the multiplication table for that number from 1 to 10 using a 'do-while'.
@@ -34,4 +34,4 @@ Output i X a = i * a.Increment i.Continue looping while i is less than or equal 
 **Include Header Files**:Include the <iostream> header for input and output operations. ;**Namespace Declaration**:Use the using namespace std; declaration to avoid prefixing standard library elements with std::. ;**Main Function**:Define the main function where the program execution starts. ;**Variable Declarations and User Input**:Declare an integer variable a.Initialize an integer variable i to 1 for the multiplication factor.Output "Input a number :" to prompt the user.Read user input into a. ;**Do-While Loop for Multiplication Table**:Use a do-while loop to repeatedly calculate and display the multiplication table.Inside the loop:
 Output i X a = i * a in the desired format.Increment the value of i.Continue looping while i is less than or equal to 10. ;**End of Main Function**:Return 0 to indicate successful program execution.
 
-**END OF CODE-6**
+**END OF CODE-7**
